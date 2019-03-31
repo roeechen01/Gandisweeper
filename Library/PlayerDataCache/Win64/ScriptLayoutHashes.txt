@@ -1,10 +1,10 @@
 WindowsStandalone
 PlayerPath?
-C:/Users/OmerChen/Documents/Roee Unity/Gandisweeper/Build/Gandisweeper.exe
+C:/Users/OmerChen/Documents/Roee Unity/Gandisweeper Build/Gandisweeper.exe
 SceneListBegin?
 Assets/Scenes/Game.unity
 SceneListEnd?
-bc4494edf3cf04ebffbbc3c928cee1d3 Assembly-CSharp.dll:.BoxManager
+64004e82d9320fcdad6a58e20a3feb4f Assembly-CSharp.dll:.BoxManager
 c422dd62785a6d0afa870fbd111886ce Unity.TextMeshPro.dll:TMPro.TMP_SelectionCaret
 7b803eb2910e9b4cd5e521ae07b9f7d6 Unity.TextMeshPro.dll:TMPro.TMP_Dropdown
 486cd95c82d8305219c352c06b776e1f UnityEngine.Timeline.dll:UnityEngine.Timeline.ActivationPlayableAsset

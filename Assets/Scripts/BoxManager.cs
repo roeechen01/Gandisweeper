@@ -77,8 +77,8 @@ public class BoxManager : MonoBehaviour
             {
                 if (boxes[i, j] != boxes[0, 0])
                 {
-                    float x = boxes[0, 0].GetPosotion().x + i * 0.82f;
-                    float y = boxes[0, 0].GetPosotion().y - j * 0.82f;
+                    float x = boxes[0, 0].GetPosotion().x + i * 0.77f;
+                    float y = boxes[0, 0].GetPosotion().y - j * 0.77f;
                     boxes[i, j].SetPosition(x, y);
                 }
 

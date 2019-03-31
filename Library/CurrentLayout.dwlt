@@ -20,7 +20,7 @@ MonoBehaviour:
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -43,7 +43,7 @@ MonoBehaviour:
     y: 0
     width: 1536
     height: 781
-  m_MinSize: {x: 950, y: 542}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &3
 MonoBehaviour:
@@ -109,7 +109,7 @@ MonoBehaviour:
   m_MinSize: {x: 681, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 274
+  controlID: 408
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -133,7 +133,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 312
+  controlID: 409
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -157,7 +157,7 @@ MonoBehaviour:
   m_MinSize: {x: 404, y: 221}
   m_MaxSize: {x: 8004, y: 4021}
   vertical: 0
-  controlID: 313
+  controlID: 410
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -318,25 +318,25 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 17
-      width: 1536
-      height: 693
-    m_Scale: {x: 0.8020833, y: 0.8020833}
-    m_Translation: {x: 768, y: 346.5}
+      width: 952
+      height: 404
+    m_Scale: {x: 0.4675926, y: 0.4675926}
+    m_Translation: {x: 476, y: 202}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -957.50653
+      x: -1017.98016
       y: -432
-      width: 1915.0131
+      width: 2035.9603
       height: 864
     m_MinimalGUI: 1
-  m_defaultScale: 0.8020833
+  m_defaultScale: 0.4675926
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
-  m_LastWindowPixelSize: {x: 1920, y: 887.5}
+  m_LastWindowPixelSize: {x: 1190, y: 526.25}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 00000000000100000100
@@ -370,7 +370,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: c4f9ffffe6fbffff00000000
+    m_ExpandedIDs: dab5ffff9cb6ffffdcb7ffffe6fbffff00000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -535,19 +535,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/Images
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Images
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\OmerChen\Documents\Roee Unity\Gandisweeper
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: b8090000
-    m_LastClickedID: 2488
+    m_SelectedIDs: 520b0000
+    m_LastClickedID: 2898
     m_ExpandedIDs: 000000005409000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -603,7 +603,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c623000000000000c4280000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
