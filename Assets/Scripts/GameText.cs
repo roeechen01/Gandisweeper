@@ -35,13 +35,13 @@ public class GameText : MonoBehaviour {
     public void SetQuoteMode()
     {
         txt.color = new Color(0.5f, 0.5f, 0.5f);
-        txt.fontSize = 30;
+        txt.fontSize = 18;
     }
 
     public void SetOverMode(bool win)
     {
         txt.color = new Color(1f, 1f, 1f);
-        txt.fontSize = 56;
+        txt.fontSize = 30;
         if (win)
             Win();
         else Lose();
