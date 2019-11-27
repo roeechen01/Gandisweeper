@@ -99,6 +99,7 @@ public class Box : MonoBehaviour {
         {
             boxManager.SetGandis(position);
             score.StartTime();
+            
         }
             
             

@@ -786,6 +786,9 @@ public class BoxManager : MonoBehaviour
     {
         foreach (Box box in boxes1Darr)
             box.Clear();
+        flagsLeft = gandisToPut_NOT_CHANGED;
+        flagsText.text = "Gandis: " + flagsLeft;
+
     }
 
 }
